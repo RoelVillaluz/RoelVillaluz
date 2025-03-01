@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3>Hi, I'm Roel, an IT student with a passion for coding and web development. I am currently focusing on full stack development, learning both front-end and back-end technologies to build comprehensive web applications.</h3>
+<h3>Hi, I'm Roel, an IT student with a passion for full stack development. Additionally, I have experience integrating AI/ML models into my websites, leveraging machine learning to enhance functionality and user experience.</h3>
 
 - 🌱 I’m currently learning **React**, **GSAP**, and **MongoDB**
 
