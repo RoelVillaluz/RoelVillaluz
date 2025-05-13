@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3>Hi, I'm Roel, an IT student with a passion for full stack development. Additionally, I have experience integrating AI/ML models into my websites, leveraging machine learning to enhance functionality and user experience.</h3>
 
-- 🌱 I’m currently learning **React**, **GSAP**, and **MongoDB**
+- 🌱 I’m currently learning **React**,and **Pytorch**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
